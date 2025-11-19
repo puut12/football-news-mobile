@@ -1,5 +1,10 @@
 # football_news 
 
+[![Build Status](https://app.bitrise.io/app/947d4718-5a18-4629-9070-1648dfbf093b/status.svg?token=hjxJBHgIK6EvI-eNquu-pw&branch=main)](https://app.bitrise.io/app/947d4718-5a18-4629-9070-1648dfbf093b)
+
+## Download
+Download aplikasi versi terbaru: [Download APK](https://app.bitrise.io/app/947d4718-5a18-4629-9070-1648dfbf093b/installable-artifacts/283aa5ad6e7f9e26/public-install-page/0ffe66221d654accc3fa0e9f365604cf)
+
 A new Flutter project.
 
 ## Getting Started
